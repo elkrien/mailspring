@@ -1,7 +1,7 @@
 ---
 accent: lavender
 whiskers:
-  version: 2.4.0
+  version: 2.5.1
   matrix:
     - flavor
     - file: ["styles/email-frame.less", "styles/ui-variables.less", "package.json"]
